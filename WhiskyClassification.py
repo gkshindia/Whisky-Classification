@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 20 10:31:10 2017
 
-@author: KANHAIYA
-"""
 from sklearn.cluster.bicluster import SpectralCoclustering
 import matplotlib.pyplot as plt
 import pandas as pd
